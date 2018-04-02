@@ -1,0 +1,18 @@
+{
+  "bucket": "machinemetrics-media",
+  "keepExtension": true,
+  "resizes": [
+    {
+      "size": "600x600^",
+      "gravity": "Center",
+      "crop": "600x600",
+      "directory": "../resized/large-square"
+    },
+    {
+      "size": "300x300^",
+      "gravity": "Center",
+      "crop": "300x300",
+      "directory": "../resized/small-square"
+    }
+  ]
+}
